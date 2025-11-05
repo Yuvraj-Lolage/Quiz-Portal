@@ -2,6 +2,8 @@
 
 A **real-time multiplayer quiz** built using **Node.js**, **Express**, **Socket.IO**, and **Bootstrap 5**.
 
+<img width="2940" height="1767" alt="image" src="https://github.com/user-attachments/assets/3564582a-f604-45c2-837b-936a8bc56d65" />
+
 ---
 
 ## 🚀 Features
